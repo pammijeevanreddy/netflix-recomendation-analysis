@@ -27,7 +27,6 @@ It provides insights into content trends across **countries, genres, ratings, an
 |------|----------|
 | **Python (Pandas, Seaborn, Matplotlib)** | Data cleaning and visualization |
 | **Excel / Power Query** | Data transformation and dashboard creation |
-| **Power BI (optional)** | Interactive data exploration |
 | **Jupyter Notebook** | EDA and reporting environment |
 
 ---
